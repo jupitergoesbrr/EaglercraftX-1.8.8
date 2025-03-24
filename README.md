@@ -1,2 +1,2 @@
 # EaglercraftX-1.8.8
-The download link for Eaglercraft 1.8.8
+The download link for EaglercraftX 1.8.8. Click on the EaglercraftX_1.8_u50_Offline_Signed.html and click on the download button that looks like an arrow pointing at a box. The file should download. Once you have downloaded the file, double click on it to open it. It should launch a tab somewhere on the lines of file:///media/archive/EaglercraftX_1.8_Signed_Offline.zip/EaglercraftX_1.8_u50_Offline_Signed.html
